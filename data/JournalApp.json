@@ -1,0 +1,15 @@
+{
+    "passwords": ["1"],
+    "usernames": ["R"],
+    "users": [{
+        "VisionTracker": {
+            "visionStatement": "1",
+            "description": "4",
+            "deadline": "5"
+        },
+        "AchievementTracker": {"achievements": []},
+        "name": "R",
+        "Journal": {"entries": []},
+        "HabitTracker": {"habits": []}
+    }]
+}

@@ -1,0 +1,34 @@
+{
+    "passwords": [
+        "123",
+        "234"
+    ],
+    "usernames": [
+        "R",
+        "S"
+    ],
+    "users": [
+        {
+            "VisionTracker": {
+                "visionStatement": "A",
+                "description": "B",
+                "deadline": "C"
+            },
+            "AchievementTracker": {"achievements": ["Ran 4km"]},
+            "name": "Raghav",
+            "Journal": {"entries": ["I am happy"]},
+            "HabitTracker": {"habits": ["Coding"]}
+        },
+        {
+            "VisionTracker": {
+                "visionStatement": "C",
+                "description": "D",
+                "deadline": "F"
+            },
+            "AchievementTracker": {"achievements": ["Ran 1km"]},
+            "name": "Samantha",
+            "Journal": {"entries": ["I am sad"]},
+            "HabitTracker": {"habits": ["Jumping"]}
+        }
+    ]
+}
